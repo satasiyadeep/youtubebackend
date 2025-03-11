@@ -1,0 +1,13 @@
+when work with databse must write in try catch because it gives error
+otherwise use promises 
+
+database is always in another continent
+async await must 
+
+whenever we use middlwere we use app,use mostly 
+when need to configuration settings
+
+CORS (Cross-Origin Resource Sharing) controls how web 
+applications from one domain can request resources from 
+another domain. It helps bypass the Same-Origin Policy 
+enforced by browsers while maintaining security
