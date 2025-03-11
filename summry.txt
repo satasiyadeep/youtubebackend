@@ -11,3 +11,5 @@ CORS (Cross-Origin Resource Sharing) controls how web
 applications from one domain can request resources from 
 another domain. It helps bypass the Same-Origin Policy 
 enforced by browsers while maintaining security
+
+mongooseAggregatePaginate, jwt, bcrypt

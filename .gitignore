@@ -1,0 +1,50 @@
+# Node.js dependencies  
+node_modules/  
+npm-debug.log  
+yarn-error.log  
+package-lock.json  
+
+# Environment Variables  
+.env  
+
+# Logs  
+logs  
+*.log  
+npm-debug.log*  
+yarn-debug.log*  
+yarn-error.log*  
+
+# System Files  
+.DS_Store  
+Thumbs.db  
+
+# Build Files (if using React)  
+/build  
+/dist  
+
+# Cache  
+.cache  
+.next  
+out  
+.vscode  
+
+# IDE Settings  
+.idea/  
+.vscode/  
+
+# Testing  
+coverage/  
+jest/  
+cypress/  
+
+# Temporary files  
+*.tmp  
+*.swp  
+*.swo  
+
+# OS generated files  
+*.DS_Store  
+Thumbs.db  
+
+# MongoDB dump files  
+dump/  
