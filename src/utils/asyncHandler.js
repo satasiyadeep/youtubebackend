@@ -1,13 +1,13 @@
 // promises utils function handler
 const asyncHandler = (requestHandler) => {
 
-      (req, res, next) => {
+  return   (req, res, next) => {
         Promise.resolve(requestHandler(req,res,next)).
         catch((error) => next(error));
       }
 }
 
-export { asyncHandler }
+export default  asyncHandler 
 
 
 // with try catch utils
